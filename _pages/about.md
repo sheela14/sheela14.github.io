@@ -5,4 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-“I’m an apsiring data scientist, experienced with Python many other objecte oriented programming. I specialize in machine learning techniques, and data wrangling. I love working on projects together, so feel free to reach out for collaboration!”
+“I’m an apsiring data scientist, experienced with Python and many other object oriented programming. I specialize in machine learning techniques, and data wrangling. I love working on projects together, so feel free to reach out for collaboration!”
