@@ -3,7 +3,7 @@ title: "Data Wrangling Project"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
-  image: "PersonalWebsite/site/sheela_BW.jpg"
+  image: "PersonalWebsite/site/DSImage_edit1.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
